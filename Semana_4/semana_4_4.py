@@ -27,6 +27,6 @@ if promedio_de_notas_aprobadas < 0 :
 
 print(f'El estudiante tiene esta cantidad de notas aprobadas {cantidad_de_notas_aprobadas}')
 print(f'El promedio de notas aprobadas es {promedio_de_notas_aprobadas}')
-print(f'El estudiante tiene esta cantidad de notas desaprovadas {cantidad_de_notas_desaprobadas}')
+print(f'El estudiante tiene esta cantidad de notas desaprobadas {cantidad_de_notas_desaprobadas}')
 print(f'el promedio de notas desaprobadas es {promedio_de_notas_desaprobadas}')
 print(f'El promedio de notas total es {promedio_de_notas_total}')
